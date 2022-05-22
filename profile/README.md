@@ -1,4 +1,12 @@
+Project link: https://github.com/PWEB-Project
+
+
+
 # PWeb Project
+
+Students:
+- Josan-Gulica Stela 341C2
+- Paiu Andreea 341C2
 
 User Stories: https://docs.google.com/document/d/1d-HucpcXDLws5F-snghVA_wLkbKddq68Tg6DuGs1-Qo/edit?usp=sharing
 
@@ -6,11 +14,18 @@ Arhitectura: https://drive.google.com/file/d/1DJa7CZzDFzx2oZqd-DtiQPU1V2rKL2XA/v
 
 Flux de wireframes si prototype: https://www.figma.com/file/GqY3BbyDHxF4emwy52joCQ/Untitled?node-id=27%3A5374
 
+Frontend: https://github.com/PWEB-Project/WarProjectFrontend
+
+Backend: https://github.com/PWEB-Project/WarProjectBackend
+
+
 # DevOps Project (IDP Assignment)
 
 Students:
 - Ion David-Gabriel 343C1
 - Damian Ștefania-Dorina 343C1
+
+Project: https://github.com/PWEB-Project/Infrastructure
 
 ## Overview
 
